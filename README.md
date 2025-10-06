@@ -12,18 +12,18 @@ A simple cross-platform GUI application that lets you block and unblock websites
   - Windows: UAC
   - macOS: AppleScript prompt
   - Linux: `pkexec` or fallback to `sudo`
-- **SQLite integration** – Keeps a persistent database (`websites_blocked.db`) of blocked domains.\
+- **SQLite integration** – Keeps a persistent database (`websites_blocked.db`) of blocked domains.
 - **Input validation** – Regex checks for valid domains and duplicate prevention.
 
 ---
 
 ## 📂 Project Structure
 
-Website_Blocker.py # Main program
-websites_blocked.db # SQLite database (created at runtime, ignored in repo)
-README.md # Project overview
-requirements.txt # Dependencies/notes
-LICENSE # MIT License
+  Website_Blocker.py # Main program
+  websites_blocked.db # SQLite database (created at runtime, ignored in repo)
+  README.md # Project overview
+  requirements.txt # Dependencies/notes
+  LICENSE # MIT License
 
 ---
 
@@ -43,4 +43,5 @@ sudo apt install python3-tk
 ## Screenshots
 ![Main window](assets/main.png)
 ![Datebase view](assets/search.png)
+
 
