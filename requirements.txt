@@ -1,0 +1,6 @@
+# No third-party pip packages required for core app.
+# Uses Python standard library + Tkinter + SQLite.
+# Tkinter usually ships with Python on Windows/macOS.
+# On Debian/Ubuntu Linux, install Tkinter via your package manager:
+#   sudo apt install python3-tk
+
