@@ -18,12 +18,12 @@ A simple cross-platform GUI application that lets you block and unblock websites
 ---
 
 ## 📂 Project Structure
-
-  Website_Blocker.py # Main program
-  websites_blocked.db # SQLite database (created at runtime, ignored in repo)
-  README.md # Project overview
-  requirements.txt # Dependencies/notes
-  LICENSE # MIT License
+- `Website_Blocker.py` — Main program
+- `websites_blocked.db` — SQLite DB (created at runtime; ignored in repo)
+- `README.md` — Project overview
+- `requirements.txt` — Dependencies/notes
+- `LICENSE` — MIT License
+- `assets/` — (optional) screenshots
 
 ---
 
@@ -43,5 +43,6 @@ sudo apt install python3-tk
 ## Screenshots
 ![Main window](assets/main.png)
 ![Datebase view](assets/search.png)
+
 
 
