@@ -36,9 +36,11 @@ LICENSE # MIT License
 > On Linux, you may need to install Tkinter manually:
 ```bash
 sudo apt install python3-tk
+```
 
 ---
 
 ## Screenshots
 ![Main window](assets/main.png)
 ![Datebase view](assets/search.png)
+
