@@ -1,0 +1,28 @@
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# Local databases / data files
+*.db
+*.sqlite
+*.sqlite3
+websites_blocked.db
+
+# Environments & secrets
+.env
+.venv/
+venv/
+
+# Editors/OS junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
