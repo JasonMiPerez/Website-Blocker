@@ -45,6 +45,11 @@ sudo apt install python3-tk
 ![Main window](assets/main.png)
 ![Datebase view](assets/search.png)
 
+---
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 
 
