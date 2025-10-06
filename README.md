@@ -23,6 +23,7 @@ A simple cross-platform GUI application that lets you block and unblock websites
 - `README.md` — Project overview
 - `requirements.txt` — Dependencies/notes
 - `LICENSE` — MIT License
+- `.gitignore` — Ignore build artifacts
 - `assets/` — screenshots
 
 ---
@@ -43,6 +44,7 @@ sudo apt install python3-tk
 ## Screenshots
 ![Main window](assets/main.png)
 ![Datebase view](assets/search.png)
+
 
 
 
